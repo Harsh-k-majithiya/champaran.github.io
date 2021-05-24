@@ -86,7 +86,9 @@ footer{
 .right > *{
     margin-left: 10px;
 }
-
+.list{
+    display: none;
+}
 .left > .head{
     font-size: 2em;
     color: green;
